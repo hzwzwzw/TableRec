@@ -1,0 +1,15 @@
+/sdaf
+.idea/*
+gradio_cache*
+/log
+clean_img.jpg
+__pycache__
+/modeltest
+*.jpg
+*.jpeg
+*.png
+models
+data
+*.csv
+*.ttf
+/*result*
